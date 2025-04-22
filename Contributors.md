@@ -1,6 +1,7 @@
  # Contributors
  -[Anne-Okingo](https://github.com/Anne-Okingo)
 - [Resu19680](https://github.com/Resu19680)
+- [Superhero] (https://github.com/UiDeveloper-Shruti/shruti-fc.git)
  -[Diyacoder-123](https://github.com/Diyacoder-123)
  -[venkatesh doddi](https://github.com/venkey799)
  -[SuperHERO](https://github.com/prasad-bigdp)
